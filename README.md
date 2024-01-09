@@ -51,5 +51,7 @@ Next, we treat the null values by dropping them if the respective variables cont
 <p>This cleaned data is then used to conduct EDA in order to understand it better and identify the underlying trends.</p>
 
 <p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and, stop words.</p>
+<h1 align="center"> Because github does not yet support some animations, some charts are hidden (you can go to the PDF file to see the chart), thank you.
+ </h1>
 
 
