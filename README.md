@@ -10,10 +10,6 @@
 * Check if Netflix is increasingly focusing on TV rather than movies in recent years.
 
 
-## Methods used:<br>
-* Descriptive Statistics.
-* Data Visualization.
-
 
 ## Libraries utilized:<br>
 * NumPy and Pandas - For dataset cleaning and analysis.
