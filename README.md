@@ -14,7 +14,7 @@
 ## Libraries utilized:<br>
 * NumPy and Pandas - For dataset cleaning and analysis.
 * Matplotlib, Plotly and Seaborn - For Data Visualization.
-* SkLearn and nltk -  For machine learning.
+* SkLearn  -  For machine learning.
  
 
 ## Dataset used:<br>
