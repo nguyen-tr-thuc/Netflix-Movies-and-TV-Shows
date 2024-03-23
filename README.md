@@ -49,5 +49,7 @@ Next, we treat the null values by dropping them if the respective variables cont
 
 <p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and, stop words.</p>
 
-<h4> Using the given data a simple recommender system was created using cosine_similarity and recommendations for Movies and Tv Shows were obtained </h4>
+<p> Using the given data a simple recommender system was created using cosine_similarity and recommendations for Movies and Tv Shows were obtained </p>
+<p>Sentiment Analysis on IMDB reviews
+Sentiment Analysis is widely used to find the opinion of the customers such as reviews, survey responses in websites or social media. Since the customers are expressing their thoughts, feelings and opinions more openly than ever before, sentiment analysis is becoming an essential tool to monitor and understand that sentiment in their reviews, comments, feedback etc.</p>
 
