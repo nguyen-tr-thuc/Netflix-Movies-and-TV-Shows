@@ -36,7 +36,7 @@ duration : Total Duration - in minutes or number of seasons
 listed_in : Genere
 description: The Summary description
 ```
-## Project Overview:<br>
+## Project overview:<br>
 <p>Netflix, is an American subscription streaming service and production company. It was founded in 1997 by Reed Hastings and Marc Randolph in Scott’s Valley, California.</p>
 <p>It offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals.</p>
 
@@ -44,12 +44,13 @@ description: The Summary description
 
 <p>After loading the data, we start by observing the first and last five values to understand the dataset.
 Next, we treat the null values by dropping them if the respective variables contain <1% of null values. This is followed by feature engineering to extract new variables from the datetime variable date_added.</p>
+ 
+## Data Visualization, Recommendations, Sentiment Analysis:<br>
 
 <p>This cleaned data is then used to conduct EDA in order to understand it better and identify the underlying trends.</p>
 
-<p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and, stop words.</p>
+<p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and stop words.</p>
 
 <p> Using the given data a simple recommender system was created using cosine_similarity and recommendations for Movies and Tv Shows were obtained </p>
-<p>Sentiment Analysis on IMDB reviews
-Sentiment Analysis is widely used to find the opinion of the customers such as reviews, survey responses in websites or social media. Since the customers are expressing their thoughts, feelings and opinions more openly than ever before, sentiment analysis is becoming an essential tool to monitor and understand that sentiment in their reviews, comments, feedback etc.</p>
+<p>Sentiment Analysis on IMDB reviews Sentiment Analysis is widely used to find the opinion of the customers such as reviews, survey responses in websites or social media. Since the customers are expressing their thoughts, feelings and opinions more openly than ever before, sentiment analysis is becoming an essential tool to monitor and understand that sentiment in their reviews, comments, feedback etc.</p>
 
