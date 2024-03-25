@@ -45,9 +45,26 @@ description: The Summary description
 <p>After loading the data, we start by observing the first and last five values to understand the dataset.
 Next, we treat the null values by dropping them if the respective variables contain <1% of null values. This is followed by feature engineering to extract new variables from the datetime variable date_added.</p>
  
+## Data Cleaning
+In the initial data preparation phase,I performed the following tasks : 
+1. Data loading and inspectation
+2. Handling missing values
+3. Data cleaning and formatting
+
+ ## Exporatory Data Analysis
+<p>This cleaned data is then used to conduct EDA in order to understand it better and identify the underlying trends.</p>
+Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset, uncovering patterns, trends, and insights. In this section, I explore various aspects of the dataset to gain a comprehensive understanding of the content available on Netflix, addressing key questions:
+
+1. **Release Trends Over the Years:**
+   - In which year did the highest number of TV shows and movies release? (Visualized using a Bar Graph)
+
+2. **Movies and TV Shows:**
+   - Show all records where the category is "Movie" and type is "Comedians" or the country is "United Kingdom." (Visualized using a Bar Graph)
+
+3. **Different Ratings Defined by Netflix:**
+   - What are the different ratings defined by Netflix?
 ## Data Visualization, Recommendations, Sentiment Analysis:<br>
 
-<p>This cleaned data is then used to conduct EDA in order to understand it better and identify the underlying trends.</p>
 
 <p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and stop words.</p>
 
