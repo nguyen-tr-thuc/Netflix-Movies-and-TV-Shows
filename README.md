@@ -63,11 +63,11 @@ Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset
 
 3. **Different Ratings Defined by Netflix:**
    - What are the different ratings defined by Netflix?
-## Data Visualization, Recommendations, Sentiment Analysis:<br>
+## Data Visualization, Recommendations, Clustering using K-means ,Sentiment Analysis:<br>
 
 
 <p>Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and stop words.</p>
-
+<p>We will apply Principle Component Analysis to our data and select components, use K-means Clustering to group similar data. To select the best value of clusters, utilize the Silhouette score and Elbow Method.</p>
 <p> Using the given data a simple recommender system was created using cosine_similarity and recommendations for Movies and Tv Shows were obtained </p>
 <p>Sentiment Analysis on IMDB reviews Sentiment Analysis is widely used to find the opinion of the customers such as reviews, survey responses in websites or social media. Since the customers are expressing their thoughts, feelings and opinions more openly than ever before, sentiment analysis is becoming an essential tool to monitor and understand that sentiment in their reviews, comments, feedback etc.</p>
 
