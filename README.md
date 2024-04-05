@@ -71,3 +71,4 @@ Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset
 <p> Using the given data a simple recommender system was created using cosine_similarity and recommendations for Movies and Tv Shows were obtained </p>
 <p>Sentiment Analysis on IMDB reviews Sentiment Analysis is widely used to find the opinion of the customers such as reviews, survey responses in websites or social media. Since the customers are expressing their thoughts, feelings and opinions more openly than ever before, sentiment analysis is becoming an essential tool to monitor and understand that sentiment in their reviews, comments, feedback etc.</p>
 
+![image](https://github.com/ThucNguyen22/Netflix-Movies-and-TV-Shows/assets/151516549/ec78c3fe-1cf9-4382-ba28-95253f36dab5)
